@@ -1,0 +1,22 @@
+<Config>
+    <SQLServerData>
+        <ServerName>WS2019SQL</ServerName>
+        <IP>192.168.1.1</IP>
+    </SQLServerData>
+    <DBData>
+        <Database>MigrationData</Database>
+        <Table>Users</Table>
+        <Columns>
+            <Column>Name</Column>
+            <Column>Someaccountname</Column>
+            <Column>Department</Column>
+        </Columns>
+    </DBData>
+    <Orgs>
+        <Org>Marketing</Org>
+        <Org>Sales</Org>
+        <Org>Manufacturing</Org>
+        <Org>Finance</Org>
+        <Org>Engineering</Org>
+    </Orgs>
+</Config>
